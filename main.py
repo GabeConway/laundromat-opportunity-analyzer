@@ -13,7 +13,6 @@ import time
 import concurrent.futures
 
 # --- CONFIGURATION ---
-# WARNING: It is strongly recommended to regenerate these keys after use to protect your accounts.
 
 # 1. U.S. Census Bureau API Key
 CENSUS_API_KEY = "INSERT_HERE"
